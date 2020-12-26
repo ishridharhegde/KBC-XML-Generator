@@ -10,7 +10,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op4</OptionD>
-			<Answer>None</Answer>
+			<Answer>A</Answer>
 			<Timer>60</Timer>
 		</Question1>
 		<Question2>
@@ -19,7 +19,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op3</OptionD>
-			<Answer>A</Answer>
+			<Answer>B</Answer>
 			<Timer>60</Timer>
 		</Question2>
 		<Question3>
@@ -28,7 +28,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op4</OptionD>
-			<Answer>B</Answer>
+			<Answer>D</Answer>
 			<Timer>60</Timer>
 		</Question3>
 		<Question4>
@@ -37,7 +37,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op4</OptionD>
-			<Answer>B</Answer>
+			<Answer>D</Answer>
 			<Timer>60</Timer>
 		</Question4>
 		<Question5>
@@ -46,7 +46,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op4</OptionD>
-			<Answer>D</Answer>
+			<Answer>C</Answer>
 			<Timer>60</Timer>
 		</Question5>
 		<Question6>
@@ -55,7 +55,7 @@
 			<OptionB>op2</OptionB>
 			<OptionC>op3</OptionC>
 			<OptionD>op4</OptionD>
-			<Answer>B</Answer>
+			<Answer>D</Answer>
 			<Timer>60</Timer>
 		</Question6>
 		<Question7>
@@ -64,7 +64,7 @@
 			<OptionB>p</OptionB>
 			<OptionC>dks</OptionC>
 			<OptionD>bhds</OptionD>
-			<Answer>B</Answer>
+			<Answer>None</Answer>
 			<Timer>60</Timer>
 		</Question7>
 		<Question8>
@@ -73,7 +73,7 @@
 			<OptionB>jndn</OptionB>
 			<OptionC>jfv</OptionC>
 			<OptionD>jfds</OptionD>
-			<Answer>B</Answer>
+			<Answer>A</Answer>
 			<Timer>60</Timer>
 		</Question8>
 		<Question9>
@@ -91,7 +91,7 @@
 			<OptionB>jdf</OptionB>
 			<OptionC>fgjio</OptionC>
 			<OptionD>djs</OptionD>
-			<Answer>A</Answer>
+			<Answer>B</Answer>
 			<Timer>60</Timer>
 		</Question10>
 		<Question11>
@@ -100,7 +100,7 @@
 			<OptionB>utels</OptionB>
 			<OptionC>fdliuo</OptionC>
 			<OptionD>soi</OptionD>
-			<Answer>A</Answer>
+			<Answer>D</Answer>
 			<Timer>60</Timer>
 		</Question11>
 		<Question12>
@@ -109,7 +109,7 @@
 			<OptionB>sekjl</OptionB>
 			<OptionC>rhjf``</OptionC>
 			<OptionD>dkjf</OptionD>
-			<Answer>C</Answer>
+			<Answer>A</Answer>
 			<Timer>60</Timer>
 		</Question12>
 		<Question13>
@@ -118,7 +118,7 @@
 			<OptionB>jfds</OptionB>
 			<OptionC>hf</OptionC>
 			<OptionD>shk</OptionD>
-			<Answer>D</Answer>
+			<Answer>B</Answer>
 			<Timer>60</Timer>
 		</Question13>
 		<Question14>
@@ -127,10 +127,10 @@
 			<OptionB>jfsk</OptionB>
 			<OptionC>hjf</OptionC>
 			<OptionD>aaaaaaaaaa</OptionD>
-			<Answer>A</Answer>
+			<Answer>C</Answer>
 			<Timer>60</Timer>
 		</Question14>
 	</QuestionBank>
 	<!--This will be added later-->
-	<Advertisement/>
+	<Advertisement> </Advertisement>
 </QuizXML>

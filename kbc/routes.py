@@ -44,6 +44,7 @@ def home():
         root.append(questionBank)
 
         advertisement = ET.Element('Advertisement')
+        advertisement.text  = " "
         comment = ET.Comment('This will be added later')
         root.append(comment)
         root.append(advertisement)
